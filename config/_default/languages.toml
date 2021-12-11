@@ -1,0 +1,11 @@
+################################### English language #####################################
+[en]
+languageName = "EN"
+languageCode = "en-US"
+contentDir = "content/english"
+weight = 1
+########### footer content ##########
+footer_menu_left = "Company"
+footer_menu_middle = "Products"
+footer_menu_right = "Support"
+footer_content = "Komodian is a community-led marketing effort for Komodo Platform ecosystem projects."

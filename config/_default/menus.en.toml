@@ -164,10 +164,10 @@ name = "FAQ"
 url = "faq/"
 weight = 16
 
-[[main]]
-name = "Contact"
-url = "contact/"
-weight = 30
+# [[main]]
+# name = "Contact"
+# url = "contact/"
+# weight = 30
 
 # footer menu left
 [[footer_left]]
@@ -218,10 +218,10 @@ name = "FAQ"
 url = "faq/"
 weight = 1
 
-[[footer_right]]
-name = "Contact"
-url = "contact/"
-weight = 2
+# [[footer_right]]
+# name = "Contact"
+# url = "contact/"
+# weight = 2
 
 # [[footer_right]]
 # name = "Privacy Policy"

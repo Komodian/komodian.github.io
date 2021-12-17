@@ -43,8 +43,11 @@
 
       {{with .Params.who_we_are}}
       <div class="col-lg-6">
-        <div class="bg-white px-4 py-6 px-lg-6 rounded-2">
-          <h2 class="section-title h3">{{.title | markdownify}}</h2>
+        {{$img:= resources.Get "images/who_we_are_blur_bg.png" }}
+        {{$img:= $img.Resize "100x "}}
+        {{$imgWebp:= $img.Resize "100x webp"}}
+        <div class="bg-white px-4 py-6 px-lg-6 rounded-2" style="background-image: url({{$imgWebp.RelPermalink}}); background-size: 130%; color: #fff;">
+          <h2 class="section-title h3" style="color: #fff;">{{.title | markdownify}}</h2>
           <p class="mb-0">{{.content | markdownify}}</p>
         </div>
       </div>

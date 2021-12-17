@@ -1,8 +1,8 @@
 - id: read_more
   translation: Read More
   
-- id: read_case_study
-  translation: Read the full case study
+- id: read_project_details
+  translation: Read the full project details
   
 - id: view_product
   translation: View Product

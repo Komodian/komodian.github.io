@@ -1,7 +1,7 @@
 - id: read_more
   translation: 続きを読む
   
-- id: read_case_study
+- id: read_project_details
   translation: ケーススタディ全体を読む
   
 - id: view_product

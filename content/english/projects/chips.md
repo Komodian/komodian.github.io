@@ -1,8 +1,8 @@
 ---
 date: "2021-07-14"
 draft: false
-title: "Google"
-logo: "images/case-studies/01.png"
+title: "Chips"
+logo: "images/brands/chipscash.png"
 ---
 
 ##### Client

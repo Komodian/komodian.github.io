@@ -239,12 +239,14 @@
       </div>
       <div class="col-12 text-center">
         {{range .tools}}
-        {{ if fileExists (add `assets/` .) }}
-        {{$img:= resources.Get . }}
+        {{ if fileExists (add `assets/` .image) }}
+        {{$img:= resources.Get .image }}
         {{$img:= $img.Resize "x45 "}}
         {{$imgWebp:= $img.Resize "x45 webp"}}
         <div class="bg-force-white is-hoverable p-4 shadow rounded-2 d-inline-block m-3">
-          <img loading="lazy" decoding="async" width="{{$img.Width}}" height="{{$img.Height}}" src="{{$imgWebp.RelPermalink}}" alt="tools" onerror="this.onerror=null;this.src='{{$img.RelPermalink}}'">
+          <a href="{{.link}}">
+            <img loading="lazy" decoding="async" width="{{$img.Width}}" height="{{$img.Height}}" src="{{$imgWebp.RelPermalink}}" alt="tools" onerror="this.onerror=null;this.src='{{$img.RelPermalink}}'">
+          </a>
         </div>
         {{end}}
         {{end}}
@@ -283,7 +285,7 @@
         {{with .content }}<p class="mb-4">{{ . | markdownify }}</p>{{ end }}
         {{ if .button.enable }}
         {{ with .button }}
-        <a href="{{ .link | relLangURL }}" title="{{ .label }}" class="btn btn-primary">{{ .label }}</a>
+        <a href="{{ .link | relLangURL }}" title="{{ .label }}" class="btn btn-primary"> <i class="{{.icon}}"></i> {{ .label }}</a>
         {{ end }}
         {{ end }}
       </div>

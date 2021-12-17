@@ -31,32 +31,32 @@ clients_logo_slider:
 ##################### Feature ##########################
 feature:
   enable : true
-  title : "The ultimate platform for creating, sharing, and executing."
-  content : "We are helping thousands of organizations run their business strategies and achieve their ambitious results! We make big plans happen."
-  button:
-    enable : true
-    label : "Try for Free"
-    link : "get-demo/"
+  title : "A blockchain community to help you build blockchain dApps."
+  content : "We are volunteers from different blockchain projects who can share ideas and experience to guide you build your dApp ideas to reality."
+  # button:
+  #   enable : true
+  #   label : "Try for Free"
+  #   link : "get-demo/"
   feature_item:
   # feature item loop
-  - name : "Cloud Support"
-    icon : "fab fa-mixcloud"
-    content : "Fugiat similique nobis porro cumque stinctio iusto quaerat corrupti."
+  - name : "Solutions oriented"
+    icon : "far fa-compass"
+    content : "We focus on making resources to help you with best solutions to build your blockchain dApp."
     
   # feature item loop
-  - name : "Object Oriented"
-    icon : "far fa-dot-circle"
-    content : "Fugiat similique nobis porro cumque voluptates tempus eupo stinctio."
+  - name : "Boost visibility"
+    icon : "far fa-eye"
+    content : "Our efforts are towards helping you be visible and highlight what's unique about your dApps."
     
   # feature item loop
-  - name : "24h Service"
-    icon : "fas fa-headphones-alt"
-    content : "Fugiat similique nobis porro cumque voluptates tempus eupo stinctio."
+  - name : "Community driven"
+    icon : "far fa-comments"
+    content : "Get involved and make resources to help your own project and others in the Komodo Platform ecosystem."
     
   # feature item loop
-  - name : "Faster Response"
-    icon : "far fa-thumbs-up"
-    content : "Fugiat similique nobis porro cumque voluptates tempus eupo stinctio."
+  - name : "Connection Hub"
+    icon : "far fa-handshake"
+    content : "Connect with likeminded people, brainstorm and build your own team. There's always a need for talent."
       
       
 # ######################### Intro Video #####################
@@ -126,20 +126,27 @@ feature:
 ################### tools_intregrate ########################
 tools_intregrate:
   enable : true
-  title : "Integrate with all the tools your teams love using"
-  content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas Werat viverra id et aliquet. vulputate egestas sollicitudin."
+  title : "Get to know some of the best projects from ecosystem"
+  content: "Projects starts from idea to a functional network and smart decentralised applications pretty quick in Komodo Platform ecosystem. Check out some of the best projects which evolved from Komodo Platform ecosystem."
   image : "images/screenshot.svg"
 
   tools:
-  - "images/tools/01.png"
-  - "images/tools/02.png"
-  - "images/tools/03.png"
-  - "images/tools/04.png"
-  - "images/tools/05.png"
-  - "images/tools/06.png"
-  - "images/tools/08.png"
-  - "images/tools/09.png"
-  - "images/tools/10.png"
+  - image: "images/brands/komodo.png"
+    link: "projects/komodo-platform"
+  - image: "images/brands/verus.png"
+    link: "projects/veruscoin"
+  - image: "images/brands/pirate.png"
+    link: "projects/pirate-chain"
+  - image: "images/brands/tokel.png"
+    link: "projects/tokel-platform"
+  - image: "images/brands/chipscash.png"
+    link: "projects/chips"
+  - image: "images/brands/smartfi.png"
+    link: "projects/smartfi"
+  - image: "images/brands/marmara.png"
+    link: "projects/marmara"
+  - image: "images/brands/cryptocollider.png"
+    link: "projects/crypto-collider"
 
   
 
@@ -147,9 +154,10 @@ tools_intregrate:
 call_to_action:
   enable : true
   title : "Ready to get started?"
-  content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat eget amtempus eu at consecttur."
+  # content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat eget amtempus eu at consecttur."
   button:
     enable : true
-    label : "Contact Us"
-    link : "contact/"
+    icon: "fab fa-discord"
+    label : "Connect with us on Discord Server"
+    link : "https://discord.gg/C3dM23YfKh"
 ---

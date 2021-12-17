@@ -51,10 +51,12 @@
           <div class="swiper-wrapper">
             {{ range .logos }}
             <div class="swiper-slide brand-item d-flex align-items-center justify-content-center">
-              {{$img:= resources.Get . }}
+              {{$img:= resources.Get .image }}
               {{$img:= $img.Resize "x35"}}
               {{$imgWebp:= $img.Resize "x35 webp"}}
-              <img loading="lazy" decoding="async" class="img-fluid" width="{{$img.Width}}" height="{{$img.Height}}" src="{{$imgWebp.RelPermalink}}" alt="Image" onerror="this.onerror=null;this.src='{{$img.RelPermalink}}'">
+              <a href="{{.link}}" target="_blank">
+                <img loading="lazy" decoding="async" class="img-fluid" width="{{$img.Width}}" height="{{$img.Height}}" src="{{$imgWebp.RelPermalink}}" alt="Image" onerror="this.onerror=null;this.src='{{$img.RelPermalink}}'">
+              </a>
             </div>
             {{ end }}
           </div>

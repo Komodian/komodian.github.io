@@ -11,13 +11,13 @@ logo_width = "180px"
 logo_text = "bigspring-premium"
 
 # OpenGraph / Twitter Card metadata
-description = "This is meta description"
-author = "Themefisher"
+description = "Komodian is a community-led marketing effort for Komodo Platform ecosystem projects"
+# author = "Themefisher"
 image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
 # contact info
-address = "9567 Turner Trace Apt. BC C3G8A4"
-mobile = "+211234565523"
-email = "info@email.com"
+# address = "9567 Turner Trace Apt. BC C3G8A4"
+# mobile = "+211234565523"
+# email = "info@email.com"
 
 # google tag manager, see https://developers.google.com/tag-manager/
 google_tag_manager = "" # example: G-XXXXXXXXXX

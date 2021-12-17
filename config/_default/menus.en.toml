@@ -5,6 +5,11 @@ url = ""
 weight = 1
 
 [[main]]
+name = "About"
+url = "about/"
+weight = 2
+
+[[main]]
 name = "Projects"
 url = "projects/"
 weight = 4
@@ -14,11 +19,7 @@ weight = 4
 # name = "Community"
 # hasChildren = true
 
-#   [[main]]
-#   parent = "Community"
-#   name = "About"
-#   url = "about/"
-#   weight = 1
+
 
 #   [[main]]
 #   parent = "Community"

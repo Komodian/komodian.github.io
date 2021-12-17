@@ -6,7 +6,7 @@ banner:
   content : "Komodian is a community-led marketing effort to help grow Komodo Platform ecosystem projects. Members from each different independent communities can gather together at one hub like Komodian and share ideas and resources to help each other. We welcome all Komodo Platform ecosystem projects to join us."
   button:
     enable : true
-    label : "Get Community Edition DEX"
+    label : "Get AtomicDEX Community Edition"
     link : "products/atomicdex-desktop-ce/"
 
 

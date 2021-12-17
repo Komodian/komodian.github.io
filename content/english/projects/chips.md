@@ -2,7 +2,7 @@
 date: "2021-07-14"
 draft: false
 title: "Chips"
-logo: "images/brands/chipscash.png"
+logo: "images/projects/chipscash.png"
 ---
 
 ##### Client
@@ -11,7 +11,7 @@ We are looking for a personal financial planning pro (Certified Financial Planne
 ##### Challenge
 We are especially interested in finding developers with experience either building web APIs with Go or experience with functional programming (e.g. Elixir, NodeJS, Clojure, F#). You might not have experience with all the technologies in our stack, but you are motivated to learn deeply. You will get the opportunity to work with both Go and Elixir with experienced team mates who can teach and pair with you to learn whatever you have less experience with.You care about security, code quality, scalability, performance, and simplicity. Above all, you seek operational excellence and apply the best engineering practices possible. Not everything that you or your team do can be perfect, but you make sure that you always know the trade-offs.
 
-{{< image title="Google LLC is an American multinational technology company" w="1200" o="webp q100" p="center" c="img-fluid shadow rounded-1" src="images/case-studies/case-1.jpg" alt="alter-text" >}}
+{{< image title="Google LLC is an American multinational technology company" w="1200" o="webp q100" p="center" c="img-fluid shadow rounded-1" src="images/projects/case-1.jpg" alt="alter-text" >}}
 
 ##### Concept
 1. must keep passwords secure and confidential;

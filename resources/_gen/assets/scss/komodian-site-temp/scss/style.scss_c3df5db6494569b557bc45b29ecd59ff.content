@@ -8241,3 +8241,6 @@ form label {
 .dark .products-card {
   background: transparent;
   border-color: #2f3337; }
+
+.header-logo {
+  max-width: 180px; }

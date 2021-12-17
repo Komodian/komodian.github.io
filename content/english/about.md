@@ -2,7 +2,7 @@
 title: "About Us"
 subtitle: ""
 # meta description
-description: "This is meta description"
+description: "Build your dApp idea on secure, efficient and scalable platform"
 draft: false
 layout: "about"
 

@@ -5,25 +5,25 @@ title: "SmartFi"
 logo: "images/projects/smartfi.png"
 ---
 
-##### Client
-We are looking for a personal financial planning pro (Certified Financial Planner™ preferred) who will lead our client advising efforts. You will be a fiduciary who works with clients providing holistic advice on areas including: saving, retirement, debt management, investments. You’ll be on the front lines helping clients in what is arguably the most important position at the company.
+##### About SmartFi
+SmartFi is a unique monetary system. It combines monetary policy with the freedoms of cryptocurrency to create a self-sustaining open-lending platform, providing the holders of SmartFi Token the opportunity to manage the system and become the beneficiaries of the wealth creation that would otherwise accrue to traditional banks.
+Our mission at SmartFi is to empower individuals and entities worldwide to pursue the creation of wealth simply and securely, protecting the use and possession of its electric virtual currency and its digital currencies.
+Our suite of tools has been designed to meet the needs of the crypto novice, experienced crypto trader, and large institution.
+No matter who you are, we have the right tools for you.
 
-##### Challenge
-We are especially interested in finding developers with experience either building web APIs with Go or experience with functional programming (e.g. Elixir, NodeJS, Clojure, F#). You might not have experience with all the technologies in our stack, but you are motivated to learn deeply. You will get the opportunity to work with both Go and Elixir with experienced team mates who can teach and pair with you to learn whatever you have less experience with.You care about security, code quality, scalability, performance, and simplicity. Above all, you seek operational excellence and apply the best engineering practices possible. Not everything that you or your team do can be perfect, but you make sure that you always know the trade-offs.
+###### Vision
+We believe in a more prosperous future for all. Cryptocurrency has the ability to empower users with an inspired financial future. At SmartFi our mission is to give access to the tools that enable users to make smarter financial decisions.
+SmartFi - Simple, Smart, and Safe.
 
-{{< image title="Slack is a new way to communicate with your team" w="1200" o="webp q100" p="center" c="img-fluid shadow rounded-1" src="images/projects/case-1.jpg" alt="alter-text" >}}
-
-##### Concept
-1. must keep passwords secure and confidential;
-2. are solely responsible for User Data and all activity in their account while using the Service;
-3. must use commercially reasonable efforts to prevent unauthorized access to their account, and notify Conclude promptly of any such unauthorized access; and
-4. may use the Service only in accordance with Conclude's online user guide and all applicable laws and regulations.
-
-##### Solution
-* Enhance or improve User experience, our Site, or our Service.
-* Process transactions.
-* Send emails about our Site or respond to inquiries.
-* As this Privacy Policy and our Terms of Service.
-
-##### Results
-We are looking for a personal financial planning pro (Certified Financial Planner™ preferred) who will lead our client advising efforts. You will be a fiduciary who works with clients providing holistic advice on areas including: saving, retirement, debt
+##### Useful info
+- Website: https://smartfi.com/
+- Blog: https://smartfi.com/news
+- WHitepaper: https://smartfi.com/whitepaper
+- Bitcointalk:
+    - https://bitcointalk.org/index.php?topic=5360309.0
+    - https://bitcointalk.org/index.php?topic=5360190.0
+- Explorers:
+    - https://bscscan.com/token/0x11fd9ed04f1eb43ef9df6425a6990609f2468895
+- Github: https://github.com/pbcllc
+- SmartDEX: https://github.com/pbcllc/SmartDEX-Desktop
+- 

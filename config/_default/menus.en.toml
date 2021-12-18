@@ -73,10 +73,10 @@ isMenuLarge = true
   # url = "products/"
   # weight = 5
 
-[[main]]
-name = "Blog"
-url = "blog/"
-weight = 13
+# [[main]]
+# name = "Blog"
+# url = "blog/"
+# weight = 13
 
 # [[main]]
 # weight = 13
@@ -180,6 +180,11 @@ weight = 16
 name = "About Us"
 url = "about/"
 weight = 1
+
+[[footer_left]]
+name = "Projects"
+url = "projects/"
+weight = 2
 
 # [[footer_left]]
 # name = "Team"

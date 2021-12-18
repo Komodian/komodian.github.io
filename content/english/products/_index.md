@@ -1,8 +1,8 @@
 ---
 title: "All Products"
-subtitle: "The Operation System for your Business"
+subtitle: "AtomicDEX is a secure wallet and non-custodial decentralized exchange rolled into one application."
 # meta description
-description: "The Operation System for your Business"
+description: "AtomicDEX is a secure wallet and non-custodial decentralized exchange rolled into one application."
 draft: false
 # content section
 section: "products"

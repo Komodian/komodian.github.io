@@ -68,7 +68,7 @@ our_mission:
 # invitation
 invitation:
   title: "Invitation to all Komodo Platform Ecosystem communities"
-  content: "This community-led effort is still in the planning phase and we invite the whole Komodo Platform ecosystem to be part of this effort, to help raise awareness of the small yet rich Komodo Platform ecosytem. We have great independent projects evolving in the ecosystem with a few notable projects like Verus, Pirate Chain, Marmara Credit Loops, Tokel Platform, Chips and many more."
+  content: "This community-led effort is still in the planning phase and we invite the whole Komodo Platform ecosystem to be part of this effort, to help raise awareness of the small yet rich Komodo Platform ecosytem. We have great independent projects evolving in the ecosystem with a few notable projects like [Verus](../projects/veruscoin/), [Pirate Chain](../projects/pirate-chain/), [Marmara Credit Loops](../projects/marmara/), [Tokel Platform](../projects/tokel-platform/), [Chips](../projects/chips/) and [many more](../projects/)."
   image: "images/solidarity-pana.svg"
 
 

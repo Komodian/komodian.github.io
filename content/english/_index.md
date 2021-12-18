@@ -7,7 +7,7 @@ banner:
   button:
     enable : true
     label : "Get AtomicDEX Community Edition"
-    link : "products/atomicdex-desktop-ce/"
+    link : "products/atomicdex-desktop-ce/#download"
 
 
 ########################## Clients Logo Slider #########################

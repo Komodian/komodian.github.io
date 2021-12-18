@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://satindergrewal.github.io/komodian-site-temp/"
+baseURL = "https://komodian.org/"
 title = "Komodian - Komodian is a community-led marketing effort for Komodo Platform ecosystem projects"
 theme = "bigspring"
 # Default time zone for time stamps; use any valid [tz database name](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)

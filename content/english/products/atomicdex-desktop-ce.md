@@ -110,8 +110,8 @@ cta:
 
 | Platform | Version | Release Link | Unblocked |
 | ----------- | ----------- | ----------- | ----------- |
-| Linux Portable | v0.5.4-beta-290 Community Edition | [Download](https://github.com/Komodian/atomicDEX-Desktop-CE/releases/download/0.5.4-beta-290/atomicdex-desktop-0.5.4-beta-290-ce-linux-portable.zip) | ✅ |
-| Linux AppImage | v0.5.4-beta-290 Community Edition | [Download](https://github.com/Komodian/atomicDEX-Desktop-CE/releases/download/0.5.4-beta-290/atomicdex-desktop-0.5.4-beta-290-ce-linux.AppImage.zip) | ✅ |
-| MacOS | v0.5.4-beta-290 Community Edition | [Download](https://github.com/Komodian/atomicDEX-Desktop-CE/releases/download/0.5.4-beta-290/atomicdex-desktop-0.5.4-beta-290-ce-osx.dmg) | ✅ |
-| Windows Portable | v0.5.4-beta-290 Community Edition | [Download](https://github.com/Komodian/atomicDEX-Desktop-CE/releases/download/0.5.4-beta-290/atomicdex-desktop-0.5.4-beta-290-ce-windows-portable.zip) | ✅ |
-| Windows Installer | v0.5.4-beta-290 Community Edition | [Download](https://github.com/Komodian/atomicDEX-Desktop-CE/releases/download/0.5.4-beta-290/atomicdex-desktop-0.5.4-beta-290-ce-windows-installer.exe) | ✅ |
+| Linux Portable | v0.5.5-beta Community Edition | [Download](https://github.com/Komodian/atomicDEX-Desktop-CE/releases/download/0.5.5-beta-101/atomicdex-desktop-ce-0.5.5-beta-ubuntu-portable.zip) | ✅ |
+| Linux AppImage | v0.5.5-beta Community Edition | [Download](https://github.com/Komodian/atomicDEX-Desktop-CE/releases/download/0.5.5-beta-101/atomicdex-desktop-ce-0.5.5-beta-ubuntu-appimage.zip) | ✅ |
+| MacOS | v0.5.5-beta Community Edition | [Download](https://github.com/Komodian/atomicDEX-Desktop-CE/releases/download/0.5.5-beta-101/atomicdex-desktop-ce-0.5.5-beta-osx-dmg.zip) | ✅ |
+| Windows Portable | v0.5.5-beta Community Edition | [Download](https://github.com/Komodian/atomicDEX-Desktop-CE/releases/download/0.5.5-beta-101/atomicdex-desktop-ce-0.5.5-beta-windows-portable.zip) | ✅ |
+| Windows Installer | v0.5.5-beta Community Edition | [Download](https://github.com/Komodian/atomicDEX-Desktop-CE/releases/download/0.5.5-beta-101/atomicdex-desktop-ce-0.5.5-beta-windows-installer.zip) | ✅ |
